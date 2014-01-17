@@ -14,6 +14,10 @@ In deze collegereeks worden een aantal thema’s geïntroduceerd. De lessen zull
 
 !
 
+# Thema's:
+<h3>- Medium
+<h3>- Identiteit
+<h3>- Macht
 
 # Opbouw hoorcolleges
 
