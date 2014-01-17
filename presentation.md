@@ -42,4 +42,4 @@ Because markup languages, and more generally data description languages (not nec
 
 # Enbedding Video?
 
-[link naar video](http://)
+[link naar video](https://www.youtube.com/watch?v=gqaRAmO3SCg)
