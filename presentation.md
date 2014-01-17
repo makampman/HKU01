@@ -17,18 +17,18 @@ In deze collegereeks worden een aantal thema’s geïntroduceerd. De lessen zull
 
 # Opbouw hoorcolleges
 
-##1. Medium: is the Message
+###1. Medium: is the Message
 Marshall McLuhan
-##2. Medium: Remix & Convergence Culture
+###2. Medium: Remix & Convergence Culture
 Henry Jenkins & Lawrence Lessig
-##3. Identiteit: Life on the Screen
+###3. Identiteit: Life on the Screen
 Sherry Turkle
-##4. Identiteit: Brand Identity & Gender
+###4. Identiteit: Brand Identity & Gender
 ?
 
-##5. Macht & Privacy
+###5. Macht & Privacy
 ?
-##6. Macht: Power of the Crowd
+###6. Macht: Power of the Crowd
 studenten
 
 !
