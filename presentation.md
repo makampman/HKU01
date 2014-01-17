@@ -22,7 +22,8 @@
 
 # The Medium is the Message
 
-<h4>Iedereen heeft wel eens gehoord van de zin ‘The Medium is the Message’, maar wat wordt er nu eigenlijk mee bedoelt? 
+Iedereen heeft wel eens gehoord van de zin ‘The Medium is the Message’, maar wat wordt er nu eigenlijk mee bedoelt? 
+Schrijf in een one-minute paper wat ermee bedoelt wordt
 
 !
 
