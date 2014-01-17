@@ -25,21 +25,11 @@
 Iedereen heeft wel eens gehoord van de zin ‘The Medium is the Message’, maar wat wordt er nu eigenlijk mee bedoelt? 
 Schrijf in een one-minute paper wat ermee bedoelt wordt
 
-More info below: 
-
-
-
-
-
-
-Example tekst:
-
-While the idea of markup language originated with text documents, there is an increasing usage of markup languages in other areas which involve the presentation of various types of information, including playlists, vector graphics, web services, content syndication, and user interfaces. Most of these are XML applications because it is a well-defined and extensible language.
-The use of XML has also led to the possibility of combining multiple markup languages into a single profile, like XHTML+SMIL and XHTML+MathML+SVG.[17]
-Because markup languages, and more generally data description languages (not necessarily textual markup), are not programming languages[18] (they are data without instructions), they are more easily manipulated than programming languages – for example, web pages are presented as HTML documents, not C code, and thus can be embedded within other web pages, displayed when only partially received, and so forth. This leads to the web design principle of the "Rule of Least Power", which advocates using the least (computationally) powerful language that satisfies a task to facilitate such manipulation and reuse.
 
 !
 
 # Enbedding Video?
+<h5>Marshall McLuhan
+<h6>Een interview voor ABV TV News, 19 Juni 1977
 
 [link naar video](https://www.youtube.com/watch?v=gqaRAmO3SCg)
