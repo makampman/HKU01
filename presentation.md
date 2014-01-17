@@ -43,7 +43,7 @@ studenten
 
 # Tussenopdrachten
 
-<p>In elke college komen er oefeningen aan bod, dit varieert van het schrijven van een 'one-minute-paper' tot het bespreken met een medestudent. Aan de hand van de oefeningen en jouw eigen gedachten schrijf je wekelijks een column (600wrd) over het onderwerp van die week, waarin je jouw kritische blik werpt op het onderwerp en deze koppelt aan een concreet voorbeeld uit jouw beroepspraktijk.  
+<p>In elk college komen er verschillende oefeningen aan bod, zoals het schrijven van een 'one-minute-paper' tot het bespreken met een medestudent. Aan de hand van de oefeningen en jouw eigen gedachten schrijf je wekelijks een column (600wrd) over het onderwerp van die week, waarin je jouw kritische blik werpt op het onderwerp en deze koppelt aan een concreet voorbeeld uit jouw beroepspraktijk.  
 
 !
 # Eindopdracht
@@ -69,8 +69,8 @@ studenten
 # The Medium is the Message
 
 <p>Iedereen heeft wel eens gehoord van de zin ‘The Medium is the Message’, maar wat wordt er nu eigenlijk mee bedoelt? 
-<p>Schrijf in een one-minute paper wat ermee bedoelt wordt in jouw eigen bewoording. 
-
+<p> **OEFENING 01:**
+<p>Schrijf in een one-minute paper wat ermee bedoelt wordt in jouw eigen bewoording.
 
 !
 
@@ -90,7 +90,26 @@ studenten
 
 # Media, Medium & Technologie
 
-Als McLuhan het heeft over **'The Medium is the Message'** gebruikt hij afwisselend de woorden 'media', 'medium' en 'technologie'. 
+<p>Als McLuhan het heeft over **'The Medium is the Message'** gebruikt hij afwisselend de woorden 'media', 'medium' en 'technologie'. 
+<p> **OEFENING 02:**
+<p>Schrijf van de volgende woorden het beeld wat het oproept in jouw hoofd; 'media', 'medium', 'technologie', 'Internet'
+
+!
+
+# Van beeld(vorming) naar definitie
+
+<p> Je hebt net opgeschreven waar je aan moet denken bij de woorden 'media', 'medium', 'technologie' en 'Internet'.
+
+<p> **OEFENING 03:**
+<p>Schrijf nu de definitie op van dezelfde woorden; 'media', 'medium', 'technologie', 'Internet'
+
+#Definities volgens Van Dale
+
+<p>**Medium** = (meervoud: media) al wat dient tot overdracht van informatie. 
+
+<p>**Technologie** = de leer van de bewerkingen die de grondstoffen ten behoeve van een bep. tak van industrie ondergaan; leer van de bewerkingen en mechanische hulpmiddelen.
+
+<p>**Internet** = wereldwijd computernetwerk dat het mogelijk maakt informatie te verspreiden of te zoeken en te e-mailen.
 
 !
 
@@ -101,7 +120,7 @@ Als McLuhan het heeft over **'The Medium is the Message'** gebruikt hij afwissel
 
 <h4>A medium is "any extension of ourselves".</h4>
 
-<p>Medium = (meervoud: media) al wat dient tot overdracht van informatie. (bron: Van Dale)
+
 
 !
 
