@@ -1,10 +1,10 @@
-# HKU: Image, Media & Technology
+## HKU: Image, Media & Technology
 
 ![image of HKU, Hilversum](hku.jpg)
 
 
 
-## Media & Cultuur // Hoorcollege 01: MEDIUM
+### Media & Cultuur // Hoorcollege 01: MEDIUM
 
 
 !
