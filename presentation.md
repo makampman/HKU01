@@ -3,6 +3,8 @@
 ! [image of HKU, Hilversum] (hku.jpg)
 ! [dog] (dog.png)
 
+![image](/Users/kampm/Documents/GITHUB/HKU01/dog.png)
+
 ## Hoorcollege 01: MEDIUM
 
 contact:
