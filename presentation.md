@@ -1,10 +1,11 @@
-## HKU: Image, Media & Technology
 
-![image of HKU, Hilversum](hku.jpg)
-![dog](dog.png)
 
-### Media & Cultuur // Hoorcollege 01: MEDIUM
+## Media & Cultuur 
+###Hoorcollege 01: MEDIUM
 
+
+
+<h6>HKU | Image, Media & Technology | Minke Kampman
 
 !
 
