@@ -1,14 +1,19 @@
-# Hallo wereld
+# Media & Cultuur
+## Hoorcollege 01: MEDIUM
 Een eerste presentatie in remarkable
 --> is het nu veranderd en staat dit zinnetje erbij?
+<h3>Introductie Marshall McLuhan
 
 !
 
-# Vandaag
-- heb ik geleerd wat git/github zijn
-- wat Markdown is
-- hoe ik met remarkable een presentatie maak
+# Opbouw hoorcolleges
 
+###1. Medium: McLuhan
+###2. Medium: Jenkins
+###3. Identiteit
+###4. Identiteit
+###5. Macht & Privacy
+###6. Macht & Privacy
 
 !
 
