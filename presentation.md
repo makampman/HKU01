@@ -1,8 +1,12 @@
 # Media & Cultuur
+
+! [image of HKU, Hilversum] (hku.jpg)
+! [dog] (dog.png)
+
 ## Hoorcollege 01: MEDIUM
-Een eerste presentatie in remarkable
---> is het nu veranderd en staat dit zinnetje erbij? en nu dan?  en  nu dan en nu dan en nu dan 
-<h3>Introductie Marshall McLuhan
+
+contact:
+<info@minkekampman.nl>
 
 !
 
