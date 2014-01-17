@@ -11,7 +11,7 @@
 !
 
 # Introductie
-In deze collegereeks worden een aantal thema’s geïntroduceerd. De lessen zullen voornamelijk het karakter hebben van een kennismaking met deze thema’s en theorieën. De kennismaking bestaat uit de **colleges** (waarin de theorieën met behulp van korte voorbeelden uit kunst en populaire cultuur worden geïntroduceerd), aangeboden **bronnen** en **opdrachten** (waarbij de student wordt uitgedaagd om zelf verbanden te leggen en koppelingen met hun vakgebied te maken).  
+In deze collegereeks worden een aantal thema’s geïntroduceerd. De lessen zullen voornamelijk het karakter hebben van een kennismaking met deze thema’s en een selectie aan theorieën. <p>De kennismaking bestaat uit de **colleges** (waarin de theorieën met behulp van korte voorbeelden uit kunst en populaire cultuur worden geïntroduceerd), aangeboden **bronnen** en **opdrachten** (waarbij de student wordt uitgedaagd om zelf verbanden te leggen en koppelingen met hun vakgebied te maken).  
 
 !
 
@@ -19,7 +19,9 @@ In deze collegereeks worden een aantal thema’s geïntroduceerd. De lessen zull
 <h3>- Medium
 <h3>- Identiteit
 <h3>- Macht
+
 !
+
 # Opbouw hoorcolleges
 
 ###1. Medium: is the Message
