@@ -19,4 +19,4 @@ Een eerste presentatie in remarkable
 
 # The Medium is the Message
 
-Is dit alles? Ja.. dit is alles
+Het gaat niet om de boodschap, maar om (de effecten van) het medium. 
