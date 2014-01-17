@@ -4,7 +4,8 @@
 ! [dog] (dog.png)
 
 ![image](/Users/kampm/Documents/GITHUB/HKU01/dog.png)
-
+https://github.com/makampman/HKU01/blob/gh-pages/dog.png
+![image](https://github.com/makampman/HKU01/blob/gh-pages/dog.png)
 ## Hoorcollege 01: MEDIUM
 
 contact:
