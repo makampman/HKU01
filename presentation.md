@@ -19,7 +19,7 @@ In deze collegereeks worden een aantal thema’s geïntroduceerd. De lessen zull
 <h3>- Medium
 <h3>- Identiteit
 <h3>- Macht
-
+!
 # Opbouw hoorcolleges
 
 ###1. Medium: is the Message
