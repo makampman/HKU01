@@ -2,11 +2,11 @@
 
 ## Media & Cultuur 
 ### Hoorcollege 01
-# MEDIUM (IS THE MESSAGE)
+# THE MEDIUM (IS THE MESSAGE)
 
 
 
-<h3>HKU | Image, Media & Technology | Minke Kampman</h3>
+### HKU | Image, Media & Technology | Minke Kampman
 
 !
 
@@ -36,21 +36,21 @@ Sherry Turkle
 
 ###5. Macht & Privacy
 ?
-###6. Macht: Power of the Crowd
+###6. Macht: Power of the Crowd (of Internet Of Things)
 studenten
 
 !
 
 # Tussenopdrachten
 
-<p>In elk college komen er verschillende oefeningen aan bod, zoals het schrijven van een 'one-minute-paper' tot het bespreken met een medestudent. Aan de hand van de oefeningen en jouw eigen gedachten schrijf je wekelijks een column (600wrd) over het onderwerp van die week, waarin je jouw kritische blik werpt op het onderwerp en deze koppelt aan een concreet voorbeeld uit jouw beroepspraktijk.  
+<p>In elk college komen er verschillende oefeningen aan bod, zoals het schrijven van een 'one-minute-paper' of een korte bespreking met een medestudent. Aan de hand van de **oefeningen** en jouw **eigen gedachten** schrijf je wekelijks een column (600wrd) over het onderwerp van die week, waarin je jouw kritische blik werpt op het onderwerp en deze koppelt aan een concreet voorbeeld uit jouw vakgebied.  
 
 !
 # Eindopdracht
 <p>Eén van de wekelijkse columns uitwerken tot een kritisch essay. 
 <p>**Voorwaarden**
-<h5> - 5/6 tussenopdrachten zijn gemaakt en staan tijdig op het blog.</h5>
-<h5> - aanwezigheid (80%, je mag één les missen)</h5>
+<p>***** - 5/6 tussenopdrachten zijn gemaakt en staan tijdig op het blog.
+<p>***** - aanwezigheid (80%, je mag één les missen)
 
 !
 
@@ -76,10 +76,10 @@ studenten
 
 # Marshall McLuhan (1911-1980)
 
-<h3> Concepten:</h3>
-<h4>- The Medium is the Message</h4>
-<h4>- Global Village</h4>
-<h4>- The Extensions of Man</h4>
+*** Concepten:</h3>
+#### - The Medium is the Message
+#### - Global Village
+#### - The Extensions of Man
 
 <p>Een interview voor ABC TV News, 19 Juni 1977
 [link naar video](https://www.youtube.com/watch?v=gqaRAmO3SCg)
@@ -116,15 +116,17 @@ studenten
 # McLuhan's concept van 'media'
 
 
-<h4>A medium is "any new technology".</h4>
+#### A medium is "any new technology".
 
-<h4>A medium is "any extension of ourselves".</h4>
+#### A medium is "any extension of ourselves".
 
 
 
 !
 
-# De inhoud van een medium is altijd een ander (voorgaand) medium. 
+# A medium is "any new technology".
+
+#### De inhoud van een medium is altijd een ander (voorgaand) medium. 
 
 - praten
 - schrijven (de inhoud van schrijven is spraak)
@@ -133,6 +135,7 @@ studenten
 - toevoeging van beweging (stomme film)
 - toevoeging van audio (film, televisie, telefoon)
 - toevoeging van interactie (Internet?, smart phone)
+- onderlinge interactie (Internet of Things)
 
 !
 # Understanding Media: The Extensions of Man (1964)
@@ -144,7 +147,13 @@ Een voorstel om de media zelf, niet haar inhoud, nader te bekijken. Het gaat om 
 
 # A medium is "any extension of ourselves"
 
+Als het Internet een verlenging van onszelf is, wat gebeurt er met onszelf bij The Internet of Things. Zijn wij dan werkelijk overal? Ubiquitous?
+
 !
+
+# Tussenopdracht
+
+Schrijf een column over wat het Internet voor jou is.
 
 # Bronnen
 <p>Korte videos waarin McLuhan zelf zijn concepten toelicht
