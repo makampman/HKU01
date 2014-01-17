@@ -1,6 +1,6 @@
 
 
-# Media & Cultuur 
+## Media & Cultuur 
 ### Hoorcollege 01
 # MEDIUM (IS THE MESSAGE)
 
