@@ -1,7 +1,7 @@
 # Media & Cultuur
 ## Hoorcollege 01: MEDIUM
 Een eerste presentatie in remarkable
---> is het nu veranderd en staat dit zinnetje erbij?
+--> is het nu veranderd en staat dit zinnetje erbij? en nu dan?  en  nu dan en nu dan en nu dan 
 <h3>Introductie Marshall McLuhan
 
 !
