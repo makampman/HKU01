@@ -8,8 +8,6 @@ https://github.com/makampman/HKU01/blob/gh-pages/dog.png
 ![image](https://github.com/makampman/HKU01/blob/gh-pages/dog.png)
 ## Hoorcollege 01: MEDIUM
 
-contact:
-<info@minkekampman.nl>
 
 !
 
