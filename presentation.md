@@ -17,6 +17,6 @@ Een eerste presentatie in remarkable
 
 !
 
-# Vragen?
+# The Medium is the Message
 
 Is dit alles? Ja.. dit is alles
